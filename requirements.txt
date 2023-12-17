@@ -1,0 +1,7 @@
+transformers==4.36.1
+torch
+datasets
+seqeval
+evaluate
+accelerate==0.25.0
+numpy
