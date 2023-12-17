@@ -37,7 +37,10 @@ Due to limited computational resources, 2 light weight models are chose to be fi
         - with up-sampling
     * masked dataset:
 2. roBERTa
-    * default dataset
+    * [default dataset](https://huggingface.co/pariakashani/en-multinerd-ner-roberta):
+        | Precision | Recall | F1     | Accuracy | Per-precision | Per-recall | Per-f1 | Org-precision | Org-recall | Org-f1 | Loc-precision | Loc-recall | Loc-f1 | Dis-precision | Dis-recall | Dis-f1 | Anim-precision | Anim-recall | Anim-f1 |
+|:---------:|:------:|:------:|:--------:|:-------------:|:----------:|:------:|:-------------:|:----------:|:------:|:-------------:|:----------:|:------:|:-------------:|:----------:|:------:|:--------------:|:-----------:|:-------:|
+|  0.94    | 0.94 | 0.94 | 0.99   | 0.99        | 0.99     | 0.99 | 0.97        | 0.98     | 0.98 | 0.99        | 0.99     | 0.99 | 0.76        | 0.76     | 0.76 | 0.68         | 0.70      | 0.69  |
 
 
 
